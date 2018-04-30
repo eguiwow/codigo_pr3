@@ -1,3 +1,4 @@
+package copypaste;
 
 public class YLaLuna {
 
