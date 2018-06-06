@@ -1,4 +1,3 @@
-package copypaste;
 
 public class RecursivoCaracteres {
 	

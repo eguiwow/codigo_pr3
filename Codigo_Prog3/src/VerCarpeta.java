@@ -1,4 +1,4 @@
-package copypaste;
+
 import java.io.File;
 
 public class VerCarpeta {
